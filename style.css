@@ -1,0 +1,27 @@
+#myID{
+    color:purple;
+}
+.myClass{
+	color:#A52A2A;
+}
+h1{
+    background-color:pink;
+}
+*{
+    font-family:'Courier New', Courier, monospace;
+}
+body{
+    background-image:url("dog-puppy-on-garden-royalty-free-image-1586966191.jpg");
+}
+.classDash{
+    border-style:dashed;
+}
+.classVaried{
+    border-top-style:solid;
+    border-right-style:dotted;
+    border-bottom-style:double;
+    border-left-style:outset;
+}
+div{
+    float:left;
+}
