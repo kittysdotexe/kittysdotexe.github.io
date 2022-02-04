@@ -10,9 +10,9 @@ h1{
 *{
     font-family:'Courier New', Courier, monospace;
 }
-body{
-    background-image:url("5ethereum.jpg");
-}
+/*body{
+    background-image:url("85b.jpg");
+}*/
 .classDash{
     border-style:dashed;
 }
