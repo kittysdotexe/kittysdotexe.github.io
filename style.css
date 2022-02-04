@@ -11,7 +11,7 @@ h1{
     font-family:'Courier New', Courier, monospace;
 }
 body{
-    background-image:url("dog-puppy-on-garden-royalty-free-image-1586966191.jpg");
+    background-image:url("5ethereum.jpg");
 }
 .classDash{
     border-style:dashed;
@@ -24,4 +24,7 @@ body{
 }
 div{
     float:left;
+}
+form{
+    float:right;
 }
