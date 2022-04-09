@@ -1,5 +1,5 @@
 p{
-    animation:slideright, fadeIn ease 10s;
+    animation:slideright ease 10s;
     
 }
 @keyframes slideright {
